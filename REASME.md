@@ -1,0 +1,1 @@
+# DRF task for panacea 
